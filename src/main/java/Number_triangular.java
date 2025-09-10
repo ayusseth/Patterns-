@@ -10,8 +10,8 @@ public class Number_triangular
             if (n>0) {
                 for (int i = 1; i <=n ; i++) {
                     System.out.print(" ".repeat(n - i)); // spaces
-                    System.out.print((i + " ").repeat(i));
-                    System.out.println();
+                    System.out.println((i + " ").repeat(i));
+//                    System.out.println();
                 }
             }
             else
