@@ -31,6 +31,6 @@ public class Zero_one_triangle
                 }
                 System.out.println();
             }
-        }
+        }//not completed yet
     }
 }
