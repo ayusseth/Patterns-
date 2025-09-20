@@ -32,7 +32,11 @@ Strengthen your looping concepts 🔁<br>
 Practice Exception Handling in real scenarios ⚡<br>
 Beginner-friendly project with clear structure 📐<br>
 <h1>👨‍💻 Author</h1>
-Made with ❤️ by <a href="https://www.linkedin.com/in/ayuseth/">Ayush Seth</a>
+Made with ❤️ by 
+<p align="center">
+  <a href="https://linkedin.com/in/ayuseth" target="_blank">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFAB&height=100&section=footer&text=Ayush+Seth&fontSize=32&animation=twinkling&fontColor=ffffff" />
+  </a>
 
 
 
